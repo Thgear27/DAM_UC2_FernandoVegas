@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DAM_FernandoVegas</string>
+    <string name="radio_checkbox">Radio</string>
+    <string name="internet_checkbox">Internet</string>
+    <string name="amigo_checkbox">Amigo</string>
+    <string name="publicidad_checkbox">publicidad</string>
+    <string name="publicidad_checkbox2">Publicidad</string>
+    <string name="enviar_button">Enviar</string>
 </resources>
