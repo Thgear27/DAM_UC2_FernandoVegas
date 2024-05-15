@@ -116,8 +116,8 @@
 
     <RadioGroup
         android:id="@+id/radioGroup"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="247dp"
+        android:layout_height="194dp"
         android:layout_marginStart="32dp"
         android:layout_marginTop="16dp"
         android:orientation="vertical"
@@ -128,25 +128,25 @@
             android:id="@+id/radioButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="RadioButton" />
+            android:text="@string/radio_sistemas" />
 
         <RadioButton
             android:id="@+id/radioButton4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="RadioButton" />
+            android:text="@string/radio_ambiental2" />
 
         <RadioButton
             android:id="@+id/radioButton3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="RadioButton" />
+            android:text="@string/radio_mecanica" />
 
         <RadioButton
             android:id="@+id/radioButton2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="RadioButton" />
+            android:text="@string/radio_administración" />
     </RadioGroup>
 
     <TextView
@@ -206,7 +206,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:background="#004A98"
-        android:backgroundTint="#FFFFFF"
+        android:backgroundTint="#004A98"
         android:drawableLeft="@drawable/baseline_send_24"
         android:text="@string/enviar_button"
         app:layout_constraintEnd_toEndOf="parent"

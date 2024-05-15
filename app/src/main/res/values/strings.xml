@@ -6,4 +6,9 @@
     <string name="publicidad_checkbox">publicidad</string>
     <string name="publicidad_checkbox2">Publicidad</string>
     <string name="enviar_button">Enviar</string>
+    <string name="radio_sistemas">Ingeniería de Sistemas</string>
+    <string name="radio_ambiental">Ingeniería de Sistemas</string>
+    <string name="radio_mecanica">Ingeniería de Mecánica</string>
+    <string name="radio_ambiental2">Ingeniería de Ambiental</string>
+    <string name="radio_administración">Administración</string>
 </resources>
